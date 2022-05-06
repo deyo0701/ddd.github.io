@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf82a7d3.css",
+    "main.js": "/static/js/main.a57781f9.js",
+    "static/media/bn5.jpg": "/static/media/bn5.5737cd38de7012a1e8a7.jpg",
+    "static/media/Dimbo Regular.woff": "/static/media/Dimbo Regular.c6df4f3014c3c67047b5.woff",
+    "static/media/Dimbo Italic.woff": "/static/media/Dimbo Italic.f1c6111d20724bb6d649.woff",
+    "index.html": "/index.html",
+    "main.bf82a7d3.css.map": "/static/css/main.bf82a7d3.css.map",
+    "main.a57781f9.js.map": "/static/js/main.a57781f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf82a7d3.css",
+    "static/js/main.a57781f9.js"
+  ]
+}
